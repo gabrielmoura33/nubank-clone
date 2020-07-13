@@ -2,7 +2,8 @@
 My Nubank interface clone, using React Native + Expo. 🧑🏾‍💻
 
 That's my interface clone of the nubank app.
-On that one i've experienced for the first time the **Animated API**. The Animated Api it's designed to increase the user experience at mobile aplications,
+On that one i've experienced for the first time the **Animated API**. 
+The Animated Api it's designed to increase the user experience at mobile aplications,
 it creates an imersive sensation, through the native elements of each platform.
 
 ## Getting started.
@@ -13,14 +14,14 @@ Run the following command in your terminal
 
 Then move to the folder it creates throught the following  command
 
-> cd nubank-clone
+> $ cd nubank-clone
 
 Then intall the packages using yarn or npm, run:
 
-> npm i or yarn install
+> $ npm i or yarn install
 
 Finally run:
 
-> yarn start or expo start
+> $ yarn start or expo start
 
 Happy Hacking! 🤓
