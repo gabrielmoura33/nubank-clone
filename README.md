@@ -2,7 +2,7 @@
 My Nubank interface clone, using React Native + Expo. 🧑🏾‍💻
 
 That's my interface clone of the nubank app.
-On this clone i've experienced for the first time the **Animated API**. The Animated Api it's designed to increase the user experience at mobile aplications,
+On that one i've experienced for the first time the **Animated API**. The Animated Api it's designed to increase the user experience at mobile aplications,
 it creates an imersive sensation, through the native elements of each platform.
 
 ## Getting started.
